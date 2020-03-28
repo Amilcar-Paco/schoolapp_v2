@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "722493663358",
+    "firebase_url": "https://pinv2-800f4.firebaseio.com",
+    "project_id": "pinv2-800f4",
+    "storage_bucket": "pinv2-800f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722493663358:android:c6506f8c02ee3ba7fe902f",
+        "android_client_info": {
+          "package_name": "com.example.pinv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722493663358-hfmf6p10l8ojjof17daqjuda2uv2rc7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9U1UWDL-djp7lQXdnh3_SVW2EegYtoZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722493663358-hfmf6p10l8ojjof17daqjuda2uv2rc7k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "722493663358-3dnolhj9t2g57ebdgl007bqcmiocou7a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bitrain.pinv2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722493663358:android:4fa67e2c03df027efe902f",
+        "android_client_info": {
+          "package_name": "com.example.schoolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722493663358-hfmf6p10l8ojjof17daqjuda2uv2rc7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9U1UWDL-djp7lQXdnh3_SVW2EegYtoZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722493663358-hfmf6p10l8ojjof17daqjuda2uv2rc7k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "722493663358-3dnolhj9t2g57ebdgl007bqcmiocou7a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bitrain.pinv2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
